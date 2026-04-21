@@ -1,5 +1,10 @@
 # Business Associate Agreement Template
 
+![Organisation](https://img.shields.io/badge/Organisation-CareLink%20Health-blue)
+![Document](https://img.shields.io/badge/Document-BAA%20Template-green)
+![Required By](https://img.shields.io/badge/Required%20By-HIPAA%2045%20CFR%20164-red)
+![Status](https://img.shields.io/badge/Status-Template%20Ready-brightgreen)
+
 **Organisation:** CareLink Health
 **Document:** Business Associate Agreement (BAA) Template
 **Reference:** HIPAA 45 CFR 164.504(e)
