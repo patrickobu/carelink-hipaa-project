@@ -1,5 +1,10 @@
 # HIPAA Security Rule Gap Assessment
 
+![Organisation](https://img.shields.io/badge/Organisation-CareLink%20Health-blue)
+![Requirements](https://img.shields.io/badge/Requirements%20Assessed-75-blue)
+![Implemented](https://img.shields.io/badge/Implemented-48%25-orange)
+![Gaps](https://img.shields.io/badge/Gaps-24%25-red)
+
 **Organisation:** CareLink Health
 **Document:** Full gap assessment — all 75 Security Rule requirements
 **Version:** 1.0
