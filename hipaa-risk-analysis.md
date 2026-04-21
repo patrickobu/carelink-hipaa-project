@@ -1,5 +1,10 @@
 # HIPAA Risk Analysis
 
+![Organisation](https://img.shields.io/badge/Organisation-CareLink%20Health-blue)
+![Regulation](https://img.shields.io/badge/Regulation-HIPAA%20Security%20Rule-green)
+![Required](https://img.shields.io/badge/Document-Required%20by%20Law-red)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 **Organisation:** CareLink Health
 **Document:** HIPAA Security Rule — Required Risk Analysis
 **Reference:** 45 CFR 164.308(a)(1)(ii)(A)
