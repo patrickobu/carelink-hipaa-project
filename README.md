@@ -63,13 +63,10 @@ The Security Rule has three safeguard categories:
 
 | File | Description |
 |------|-------------|
-| `README.md` | This file — project overview |
-| `hipaa-risk-analysis.md` | Required HIPAA risk analysis document |
-| `gap-assessment.md` | Assessment of all 75 Security Rule requirements |
-| `remediation-plan.md` | Prioritised plan to address all gaps |
-| `baa-template.md` | Business Associate Agreement template |
-| `policies/` | HIPAA-required policies and procedures |
-| `training-programme.md` | Staff security awareness training plan |
+| [README.md](README.md) | This file — project overview |
+| [hipaa-risk-analysis.md](hipaa-risk-analysis.md) | Required HIPAA risk analysis document |
+| [gap-assessment.md](gap-assessment.md) | Assessment of all 75 Security Rule requirements |
+| [baa-template.md](baa-template.md) | Business Associate Agreement template |
 
 ---
 
