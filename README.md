@@ -119,6 +119,8 @@ three safeguard categories.
 | Technical (12 reqs) | 6 | 4 | 2 |
 | **Total (75 reqs)** | **36 (48%)** | **21 (28%)** | **18 (24%)** |
 
+![HIPAA compliance dashboard](carelink-hipaa-compliance-dashboard.svg)
+
 ---
 
 ## HIPAA Risk Analysis Summary
