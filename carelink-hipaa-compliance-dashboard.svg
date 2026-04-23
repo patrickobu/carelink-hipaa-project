@@ -1,0 +1,65 @@
+<svg width="100%" viewBox="0 0 680 460" xmlns="http://www.w3.org/2000/svg">
+<title>CareLink Health HIPAA Security Rule compliance gap dashboard</title>
+<desc>Dashboard showing compliance percentage across administrative physical and technical safeguards with gap analysis</desc>
+
+<text x="340" y="26" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="bold" fill="#2E6B1A">CareLink Health — HIPAA Security Rule Compliance Dashboard</text>
+<text x="340" y="44" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#555">Gap assessment across all 75 Security Rule requirements</text>
+
+<!-- Three safeguard category boxes -->
+<!-- Administrative -->
+<rect x="30" y="62" width="190" height="180" rx="10" fill="#FFF8E1" stroke="#E6A817" stroke-width="1.5"/>
+<text x="125" y="84" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#7A5200">Administrative</text>
+<text x="125" y="100" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#7A5200">45 requirements</text>
+<!-- Progress bar -->
+<rect x="46" y="112" width="158" height="18" rx="9" fill="#E0D5A0"/>
+<rect x="46" y="112" width="64" height="18" rx="9" fill="#E6A817"/>
+<text x="125" y="125" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#fff" font-weight="bold">40% implemented</text>
+<text x="70" y="154" font-family="Arial,sans-serif" font-size="11" fill="#333">✅ Implemented: 18</text>
+<text x="70" y="172" font-family="Arial,sans-serif" font-size="11" fill="#E6A817">⚠️ Partial: 14</text>
+<text x="70" y="190" font-family="Arial,sans-serif" font-size="11" fill="#CC0000">❌ Gap: 13</text>
+<text x="125" y="228" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#7A5200">Top gap: Risk analysis</text>
+<text x="125" y="242" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#7A5200">never conducted</text>
+
+<!-- Physical -->
+<rect x="245" y="62" width="190" height="180" rx="10" fill="#E8F5E9" stroke="#1A6B3C" stroke-width="1.5"/>
+<text x="340" y="84" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#085041">Physical</text>
+<text x="340" y="100" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#085041">18 requirements</text>
+<rect x="261" y="112" width="158" height="18" rx="9" fill="#9FD4B0"/>
+<rect x="261" y="112" width="106" height="18" rx="9" fill="#1D9E75"/>
+<text x="340" y="125" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#fff" font-weight="bold">67% implemented</text>
+<text x="285" y="154" font-family="Arial,sans-serif" font-size="11" fill="#333">✅ Implemented: 12</text>
+<text x="285" y="172" font-family="Arial,sans-serif" font-size="11" fill="#E6A817">⚠️ Partial: 3</text>
+<text x="285" y="190" font-family="Arial,sans-serif" font-size="11" fill="#CC0000">❌ Gap: 3</text>
+<text x="340" y="228" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#085041">Top gap: Workstation</text>
+<text x="340" y="242" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#085041">use policy missing</text>
+
+<!-- Technical -->
+<rect x="460" y="62" width="190" height="180" rx="10" fill="#FFEBEE" stroke="#CC0000" stroke-width="1.5"/>
+<text x="555" y="84" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#8A0000">Technical</text>
+<text x="555" y="100" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#8A0000">12 requirements</text>
+<rect x="476" y="112" width="158" height="18" rx="9" fill="#F5AAAA"/>
+<rect x="476" y="112" width="79" height="18" rx="9" fill="#CC0000"/>
+<text x="555" y="125" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#fff" font-weight="bold">50% implemented</text>
+<text x="500" y="154" font-family="Arial,sans-serif" font-size="11" fill="#333">✅ Implemented: 6</text>
+<text x="500" y="172" font-family="Arial,sans-serif" font-size="11" fill="#E6A817">⚠️ Partial: 4</text>
+<text x="500" y="190" font-family="Arial,sans-serif" font-size="11" fill="#CC0000">❌ Gap: 2</text>
+<text x="555" y="228" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#8A0000">Top gap: MFA not</text>
+<text x="555" y="242" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#8A0000">enforced for all users</text>
+
+<!-- Overall bar -->
+<rect x="30" y="270" width="620" height="70" rx="10" fill="#F4F7FC" stroke="#185FA5" stroke-width="1"/>
+<text x="340" y="290" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#1A4B8A">Overall Compliance — All 75 Requirements</text>
+<rect x="50" y="300" width="580" height="22" rx="11" fill="#D0D8E8"/>
+<rect x="50" y="300" width="278" height="22" rx="11" fill="#185FA5"/>
+<rect x="50" y="300" width="162" height="22" rx="11" fill="#1D9E75"/>
+<text x="131" y="316" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#fff" font-weight="bold">Implemented 48%</text>
+<text x="278" y="316" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#fff" font-weight="bold">Partial 28%</text>
+<text x="450" y="316" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#555" font-weight="bold">Gap 24%</text>
+
+<!-- Priority actions -->
+<rect x="30" y="358" width="620" height="86" rx="10" fill="#FFEBEE" stroke="#CC0000" stroke-width="1"/>
+<text x="340" y="378" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#8A0000">Top Priority Remediation Actions</text>
+<text x="50" y="396" font-family="Arial,sans-serif" font-size="11" fill="#333">🔴 Immediate: Enable MFA for all PHI-access accounts</text>
+<text x="50" y="412" font-family="Arial,sans-serif" font-size="11" fill="#333">🔴 Immediate: Conduct and document the required HIPAA risk analysis</text>
+<text x="50" y="428" font-family="Arial,sans-serif" font-size="11" fill="#333">🟠 30 days: Launch security awareness training | Write workstation use policy</text>
+</svg>
